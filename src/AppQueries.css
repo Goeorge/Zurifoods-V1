@@ -1,0 +1,17 @@
+@media (max-width: 70rem) {
+	.heading-primary {
+		font-size: 4rem;
+	}
+	.chWhav {
+		grid-template-columns: 45fr 55fr;
+		gap: 2rem;
+	}
+}
+
+@media (max-width: 64rem) {
+	html {
+		/* font-size: 10px; */
+		/* % of users browsers font size setting. Defaults 16px */
+		font-size: 58.5%;
+	}
+}
